@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@inboxsdk/core": "^2.2.1"
+  }
+}
